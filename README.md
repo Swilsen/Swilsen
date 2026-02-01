@@ -7,9 +7,7 @@ My repository is a place where I can catalogue and display projects I have done 
 
 
 ## Projects
-<a href="Projects/">
-  <img src="https://img.shields.io/badge/-Projects-555555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-</a>
+<a href="https://github.com/Swilsen/Password-Strength-Meter-Tool">Password Strength Tester</a>
 
 ## Certifications
 <a href="Certifications/">
