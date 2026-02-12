@@ -8,6 +8,7 @@ My repository is a place where I can catalogue and display projects I have done 
 
 ## Projects
 <a href="https://github.com/Swilsen/Password-Strength-Meter-Tool">Password Strength Tester</a>
+<a href="https://github.com/Swilsen/Penetration-Testing-Report">Penetration Testing Report/a>
 
 ## Certifications
 <a href="Certifications/">
