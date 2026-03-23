@@ -3,7 +3,7 @@
 
 I am a business and cybersecurity graduate with an interest in learning about how computers work, how these innerworkings allows for various security exploitations, and what can be done to defend against malicious attacks.
 
-My repository is a place where I can catalogue and display projects I have done on my learning journey. I am always interested in learning more about how technology really works, and these projects are a way for me to get hands-on with the technology I have studied.
+My repository is a place where I can catalogue and display projects I have completed on my learning journey. I am always interested in learning more about how information and security related technology really works, and these projects are a way for me to get hands-on with the topics I have studied.
 
 
 ## Projects
