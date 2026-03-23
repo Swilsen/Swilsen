@@ -11,6 +11,8 @@ My repository is a place where I can catalogue and display projects I have compl
 
 <a href="https://github.com/Swilsen/Penetration-Test-Report">Penetration Test Report</a>
 
+<a href="https://github.com/Swilsen/Lateral-Movement-Simulation">Lateral Movement Simulation</a>
+
 ## Certifications
 <a href="Certifications/">
   <img src="https://img.shields.io/badge/-Certifications-555555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
